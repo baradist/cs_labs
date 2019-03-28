@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SaveContainer xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Words>
+    <Word>
+      <type>Noun</type>
+      <word>tree</word>
+      <translations>
+        <string>дерево</string>
+      </translations>
+    </Word>
+    <Word>
+      <type>Adjective</type>
+      <word>beautiful</word>
+      <translations>
+        <string>красивый</string>
+      </translations>
+    </Word>
+    <Word>
+      <type>Verb</type>
+      <word>jump</word>
+      <translations>
+        <string>прыгать</string>
+        <string>скакать</string>
+      </translations>
+    </Word>
+  </Words>
+  <QuizResults>
+    <QuizResult>
+      <Fails>1</Fails>
+      <Questions>3</Questions>
+    </QuizResult>
+  </QuizResults>
+</SaveContainer>
